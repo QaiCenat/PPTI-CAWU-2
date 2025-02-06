@@ -1,2 +1,0 @@
-# PPTI-CAWU-2
-Java
